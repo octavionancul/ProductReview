@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "580648498451",
+    "firebase_url": "https://prueba3desafiolatam.firebaseio.com",
+    "project_id": "prueba3desafiolatam",
+    "storage_bucket": "prueba3desafiolatam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580648498451:android:c8f5e3bd6bf330d5",
+        "android_client_info": {
+          "package_name": "cl.octavionancul.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580648498451-n1rl5h80s8vdgv443pn7rga0tnjml27i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.octavionancul.myapplication",
+            "certificate_hash": "b860cb876a97c3becfd90ae4da7567ff75a96593"
+          }
+        },
+        {
+          "client_id": "580648498451-2fml7o3cb31mucglv8s88so4g5fj5miu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWpvSFoNlCm-BdN_RdtM9jy72CcidMyHM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580648498451-2fml7o3cb31mucglv8s88so4g5fj5miu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580648498451:android:cc438c18182414f8",
+        "android_client_info": {
+          "package_name": "cl.octavionancul.prueba3desafiolatam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580648498451-bblh700nhv2utlh8231ud02enpik7481.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.octavionancul.prueba3desafiolatam",
+            "certificate_hash": "b860cb876a97c3becfd90ae4da7567ff75a96593"
+          }
+        },
+        {
+          "client_id": "580648498451-2fml7o3cb31mucglv8s88so4g5fj5miu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWpvSFoNlCm-BdN_RdtM9jy72CcidMyHM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580648498451-2fml7o3cb31mucglv8s88so4g5fj5miu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

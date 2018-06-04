@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProductsFragment">
+<RadioGroup
+    android:layout_marginLeft="8dp"
+    android:layout_marginTop="16dp"
+    android:id="@+id/ownerRg"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RadioButton
+        android:id="@+id/myRb"
+        android:text="Mis productos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <RadioButton
+        android:id="@+id/allRb"
+        android:text="Todos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+</RadioGroup>
+
+<android.support.v7.widget.RecyclerView
+    android:id="@+id/productRv"
+    android:layout_marginTop="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"/>
+
+</LinearLayout>
